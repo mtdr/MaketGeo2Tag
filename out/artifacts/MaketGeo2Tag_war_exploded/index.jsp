@@ -9,9 +9,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Title</title>
+    <title>Вход</title>
     <link href="./css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style-index.css">
     <link rel="stylesheet" href="css/font-awesome.css">
   </head>
   <body>
